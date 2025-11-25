@@ -1,0 +1,17 @@
+s 2
+h B3
+h B2
+h B1
+h B0
+s 3.208
+l B3
+l B2
+l B1
+l B0
+s 2.126
+h shift
+s 4.422
+h B3
+h B2
+h B1
+h B0

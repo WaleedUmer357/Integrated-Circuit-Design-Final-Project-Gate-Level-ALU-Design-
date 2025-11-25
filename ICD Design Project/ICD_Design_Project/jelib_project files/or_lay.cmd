@@ -1,0 +1,13 @@
+s 2
+h d
+s 2.012
+l d
+s 0.426
+h e
+h d
+s 0.988
+l e
+l d
+s 1.307
+h e
+h d

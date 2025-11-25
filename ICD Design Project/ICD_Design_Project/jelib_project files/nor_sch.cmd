@@ -1,0 +1,13 @@
+s 2
+h e
+h d
+h d
+s 1.055
+l e
+l d
+s 1.125
+h e
+h d
+s 1.231
+l e
+l d

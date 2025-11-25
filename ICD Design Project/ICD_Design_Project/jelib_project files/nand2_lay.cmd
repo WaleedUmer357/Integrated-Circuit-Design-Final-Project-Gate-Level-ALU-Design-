@@ -1,0 +1,13 @@
+s 2
+h a
+s 0.481
+h b
+h a
+s 0.472
+l a
+s 1.065
+l b
+l a
+s 1.248
+h b
+h a

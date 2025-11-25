@@ -1,0 +1,12 @@
+s 2
+h a1
+s 0.894
+h a2
+s 1.109
+h inv
+s 1.979
+h ninv
+s 0.345
+l inv
+s 1.679
+l ninv

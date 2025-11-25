@@ -1,0 +1,14 @@
+s 2
+h A3
+h A2
+h A1
+h A0
+h B3
+h B2
+h B1
+h B0
+s 7.045
+l A0
+s 2.234
+l B3
+l B2

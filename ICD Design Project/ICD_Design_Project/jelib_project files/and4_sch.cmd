@@ -1,0 +1,16 @@
+s 2
+h d
+h c
+h b
+h a
+h c
+h b
+h a
+h b
+h a
+h a
+s 3.714
+l d
+l c
+l b
+l a
