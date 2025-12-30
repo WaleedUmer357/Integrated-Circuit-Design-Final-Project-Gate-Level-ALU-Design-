@@ -1,13 +1,13 @@
-# Integrated-Circuit-Design-Final-Project-Gate-Level-ALU-Design-
+ Integrated-Circuit-Design-Final-Project-Gate-Level-ALU-Design-
 I designed an industrial grade vlsi design of an ALU.
 # 4-bit Arithmetic Logic Unit (ALU) - VLSI Design Project
 
- 📋 Project Overview
+  Project Overview
 This project involves the design and implementation of a 4-bit Arithmetic Logic Unit (ALU) as part of the Integrated Circuit Design program at Griffith University. The ALU supports eight operations including addition, subtraction, logical shifts, negation, absolute value, multiplication, and minimum selection. The design focuses on optimizing delay, area, and power consumption using the Electric VLSI Design System.
 
 
 
- 🛠️ Features
+ Features
 - 8 Operations Supported:
   1. Addition (A + B)
   2. Subtraction (A – B)
@@ -30,7 +30,7 @@ This project involves the design and implementation of a 4-bit Arithmetic Logic 
 
 
 
- 🔧 Design Highlights
+ Design Highlights
 # 1. Transistor Sizing
 - pMOS width = 2 × nMOS width to balance mobility and switching thresholds.
 - Minimum transistor length = 2λ (MOSIS CMOS technology).
@@ -52,21 +52,19 @@ This project involves the design and implementation of a 4-bit Arithmetic Logic 
 
 
 
- 📁 Project Structure
+  Project Structure
 ```
-📦 ALU-Design-Project
-├── 📄 README.md
-├── 📂 schematics/          # Electric schematic files (.sch)
-├── 📂 layouts/             # Electric layout files (.lay)
-├── 📂 simulations/         # Simulation waveforms and testbenches
-├── 📂 stimuli/             # Input stimuli files for verification
-├── 📂 docs/                # Project report and references
-└── 📂 appendix/            # Additional gates and block designs
+ ALU-Design-Project
+├──  README.md
+├── schematics/          # Electric schematic files (.sch)
+├──  layouts/             # Electric layout files (.lay)
+├── simulations/         # Simulation waveforms and testbenches
+├── stimuli/             # Input stimuli files for verification
+├──  docs/                # Project report and references
+└──  appendix/            # Additional gates and block designs
 
 
-
-
- ⚙️ Simulation & Verification
+ Simulation & Verification
 - Tools Used: Electric VLSI Design System
 - Checks Performed:
   - Design Rule Check (DRC)
@@ -76,31 +74,24 @@ This project involves the design and implementation of a 4-bit Arithmetic Logic 
   - All blocks verified with delay < 2 ns.
   - Final ALU delay ≈ 1.5 ns.
 
-
-
- 📊 Performance Metrics
+ Performance Metrics
 - Delay: < 2 ns per block
 - Area: Optimized through gate reuse and compact layout
 - Power: Reduced via pin sizing, wire optimization, and efficient multiplexing
 
 
-
- 🚧 Known Issues & Future Work
+ Known Issues & Future Work
 - Multiplier currently not fully functional in final integration (pin connection issue).
 - Further optimization possible in wire routing to reduce delay.
 - Plan to implement Booth’s algorithm for multiplier enhancement.
 
-
-
- 📚 References
+ References
 1. Weste, N.H.E. & Harris, D.M. – Integrated Circuit Design
 2. Stan, M.R. – Optimal Voltages and Sizing for Low Power
 3. Singh et al. – Optimum Transistor Sizing Using Logical Effort Theory
 4. Raj & Syamala – Transistor Level Implementation of Digital Reversible Circuits
 
-
-
- 👤 Author
+Author
 Waleed Umer  
 Griffith University  
 
