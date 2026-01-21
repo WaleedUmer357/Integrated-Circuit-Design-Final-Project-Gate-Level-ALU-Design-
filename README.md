@@ -121,7 +121,7 @@
   
   <h4>Known Issues & Future Work</h4>
   <ul>
-    <li>Multiplier currently not fully functional in final integration (pin connection issue)</li>
+    <li>Multiplier currently  functional in final integration but can be better optimized(pin connection issue)</li>
     <li>Further optimization possible in wire routing to reduce delay</li>
     <li>Plan to implement Booth's algorithm for multiplier enhancement</li>
   </ul>
